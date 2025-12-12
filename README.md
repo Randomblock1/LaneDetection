@@ -78,3 +78,5 @@ Each detector provides a visualization of its results and intermediate steps, wh
 
 - **Control Logic**: Currently, the system calculates a target trajectory. Implementing a PID controller to actually steer the vehicle in the game would complete the loop.
 - **Reinforcement Learning**: Instead of hard-coded detection logic, an RL agent could learn to drive end-to-end from the pixels.
+
+Link to presentation: https://docs.google.com/presentation/d/129qQjQCPUqe-rbknaHc8DhE3KP7iyiEq/edit?usp=sharing&ouid=102405409855704432488&rtpof=true&sd=true
